@@ -56,7 +56,8 @@ Data flows one direction. Signal generation and risk management are fully decoup
 ## Quick start
 
 ```bash
-git clone <this-repo>
+git clone microstructure-backtest-engine
+/
 cd quant_framework
 pip install pandas numpy
 
@@ -202,5 +203,4 @@ quant_framework/
 - This is a research/backtesting tool, not an execution system. Nothing here talks to a broker or exchange.
 
 ## License
-
-Add your license of choice here.
+MIT License
